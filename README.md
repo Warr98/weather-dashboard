@@ -1,6 +1,6 @@
 # weather-dashboard
 
-## Application live URL:
+## Application live URL: https://warr98.github.io/weather-dashboard/
 
 ## User Story
 
@@ -24,3 +24,10 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+```
+
+## Image of Application
+![image](https://user-images.githubusercontent.com/42903551/152477510-bd55f939-2516-4866-aaed-50e44afb84fc.png)
+
+
+
